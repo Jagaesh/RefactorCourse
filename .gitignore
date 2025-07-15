@@ -1,0 +1,6 @@
+# Dossiers de cache Python
+__pycache__/
+*.py[cod]
+
+# Cache de pytest
+.pytest_cache/
