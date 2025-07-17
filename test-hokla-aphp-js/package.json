@@ -1,0 +1,13 @@
+{
+  "name": "poc-refacto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/hokla.js",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": []
+}
