@@ -22,7 +22,7 @@ answer = randint(1, 10)
 if __name__ == "__main__":
     while True:
         try:
-            guess = int(input('guess a number 1~10:  '))
+            guess = int(input('guess a number 1~10: '))
             if run_guess(guess, answer):
                 break
         except ValueError:
